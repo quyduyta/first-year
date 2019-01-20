@@ -1,1 +1,21 @@
+dfu.head()
+Out[16]: 
+        reserve in months of import                                
+country                       China Singapore United States Vietnam
+date                                                               
+1960                            NaN       NaN           NaN     NaN
+1961                            NaN       NaN           NaN     NaN
+1962                            NaN       NaN           NaN     NaN
+1963                            NaN       NaN           NaN     NaN
+1964                            NaN       NaN           NaN     NaN
 
+dfu.tail()
+Out[17]: 
+        reserve in months of import                                  
+country                       China Singapore United States   Vietnam
+date                                                                 
+2013                      19.543282  5.556191      1.610362  2.146522
+2014                      18.965420  5.240157      1.501090  2.536335
+2015                      18.028833  5.596095      1.367862  1.877717
+2016                      16.804530  5.705600      1.452553  2.316692
+2017                      15.506694  5.993163      1.500156  2.557829
